@@ -11,7 +11,7 @@ FIRST PAGE:
 > OnDragStart, dataTransfer is invoked with the innerHTML content as the data and type text.
 > OnDrop, the incoming data replaces the "value" of the input into which it is dropped.
 > Once all the input spaces are filled, "CHECK ANSWER" button is activated.
-> If numbers are arranged in ascending order in downwards direction, "SECOND PAGE" is dispalyed.
+> If numbers are arranged in ascending order in downwards direction, "SECOND PAGE" is displayed.
 > Otherwise, "THIRD PAGE" is displayed.
 
 SECOND PAGE:
