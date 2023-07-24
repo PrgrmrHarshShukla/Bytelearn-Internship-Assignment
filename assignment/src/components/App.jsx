@@ -13,9 +13,7 @@ function App() {
         <Routes>
             <Route exact path="/" element = {<Quiz />} />
             <Route exact path="/right" element = {<Result/>} />
-            <Route exact path="/wrong" element = {<Failure />} />
-            
-
+            <Route exact path="/wrong" element = {<Failure />} />            
         </Routes>
       </BrowserRouter>
     </div>
