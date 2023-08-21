@@ -15,6 +15,7 @@ function Quiz() {
    const drag = (e) => {
       // console.log("dragged");
       let data = e.dataTransfer.setData("text", e.target.innerHTML)
+      console.log(data);
    }
 
    const drop = (e) => {
@@ -187,7 +188,7 @@ function Quiz() {
          
          </div>
 
-         <button className="h-[5vh] border-4 border-purple-700 font-bold rounded-[10px] px-4 text-center -mt-[5vh]  hover:bg-purple-300 hover:border-l-2 hover:border-r-2 " onClick={funcDisable}>CHECK ANSWER</button>
+         <button className=" h-[5vh] border-4 border-purple-700 font-bold rounded-[10px] px-4 text-center -mt-[5vh]  hover:bg-purple-300" onClick={funcDisable}>CHECK ANSWER</button>
 
 
 
