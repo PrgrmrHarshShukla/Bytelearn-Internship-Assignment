@@ -19,7 +19,7 @@ function Quiz() {
 
    const drop = (e) => {
       e.preventDefault()
-      // console.log("drop");
+      console.log("dropped");
       let data = e.dataTransfer.getData("text")
       e.target.value = data
    }
