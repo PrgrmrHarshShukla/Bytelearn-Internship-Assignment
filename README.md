@@ -1,4 +1,12 @@
-# Bytelearn-Internship-Assignment
+## Assignment Submission Preview
+![image](https://github.com/user-attachments/assets/1d7f6278-2bd4-4641-85bf-daa43883332a)
+![image](https://github.com/user-attachments/assets/aeb0b10c-3f11-4f38-a5f5-1d57ffa7216b)
+
+
+
+
+
+## Bytelearn-Internship-Assignment
 
 This is a Quiz game made using React, TailwindCSS and other stack.
 It has three routes (made using react-router-dom and navigated using UseNavigate hook from react-router-dom).
